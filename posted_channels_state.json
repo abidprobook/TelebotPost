@@ -1,0 +1,1052 @@
+{
+  "sources": {
+    "SportzX_events": {
+      "postedChannels": {
+        "50002::APPLE TV FHD::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bloqv62cg8/out/v1/0f6b2626aef2496e97bce1b5998b49b5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::c0a9d1e7eaf683120499b4017314a518:990018b9907cf9b5ae4c3dd9eb948255": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "APPLE TV FHD",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::TSN SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "TSN SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::FANCODE FHD::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "FANCODE FHD",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::APPLE TV HDR::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eihx5jcvpx/out/v1/02b3c045272c49b890e8074af2daf11b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::6e78c43952d3b415ff4e0d3ef4946347:250cfc6c4e1e0fc070298c9a8ce14830": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "APPLE TV HDR",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::DUDE Tv F1 HD::https://chatgpt.hereisman.net/playlist/54937/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "DUDE Tv F1 HD",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::SKY F1 Italia [IT]::https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1787562417_f~0_g~1_s~b49d4c2c-191d-4dc2-bd47-74574d400810_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~7e57dd894e4387a541ba800f3ed0d364/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd::1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "SKY F1 Italia [IT]",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::Mixed On Board::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/15swxuvnbu/out/v1/556a7548256645b496e9b4fdbe2d2fbf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::162b362c3e3dcf9c8965cc506a9f2de7:767ea1980f274bcc8e4b6991d536ddfc": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "Mixed On Board",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::Driver Tracker::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/snuntbrra5/out/v1/c875e4f8e2fe4c878aa0796a462dc413/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::09c69c9b95596228c03b1fc758b8c1a3:aa3bf036e7b874e626cb71a985616e5c": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "Driver Tracker",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::Driver Data::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjtuyjgps1/out/v1/a33f356b57744981b0ec8681a485d8f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::d202e00c4caa89b88f32f45f94eb094c:52ce12b7f78d4fedaca01fa3f127b69f": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "Driver Data",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::P1 Driver FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1mjuwf1wp/out/v1/ec0575cd4af241c4be5484f55b41ecba/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::ed417cda3ffc1734204e2eb3d70207fd:e60e93cba0df4c4e1781fe5f162ea259": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "P1 Driver FHD",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::P2 Driver FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igfz4csdrj/out/v1/bb70be234ff24b688cd5e871c537666a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::b2a9f9577aea0cb056f5aad08d7a1ca2:6be712cd2efbfb0f371c03a64f202cb6": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "P2 Driver FHD",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::P3 Driver FHD::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6mcpso8kcb/out/v1/b56e95538e314425805ef442b04a1590/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::8223eb076c41795c2a0d8fc946b0dc33:bd2f609fd396724f1eb86523c84536a9": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "P3 Driver FHD",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::MAX Verstappen::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q7clywyytb/out/v1/990d0b082dc94275a09a66abc0548c91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::528006dc5aad7f036001662e4bea24e0:3a2bfc846bda9330a597d80387144ae9": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "MAX Verstappen",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::Lewis Hamilton::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xjyr7sx6zi/out/v1/e34cdcfa05e6435195499b62481fef17/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::ea717955259a1c827f44a80e8aebf867:a3a5235c7f235ca675c0dc94ee081874": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "Lewis Hamilton",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::Lando Norris::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8v4gcndx3/out/v1/a35dbc3ba03f457f887598dc12fed168/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::1e6e2b2d9759e6c7ff82ff7adce536f7:dd64f0c311221b91c54b63bd92d7108b": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "Lando Norris",
+          "lastSeen": "2026-09-02T07:16:28.346Z"
+        },
+        "50002::George Russell::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ruswb6h8qp/out/v1/8daa5b4195be4c3d96182f5a3634be12/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::4fce3279cfa40aa10f943a2ab0ffc57d:2c265f4a36de4258bd266c20db75137a": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "George Russell",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::Charles Leclerc::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/br5yrh7bxp/out/v1/7195ae9b140e43689749ec7aa471c576/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::e96e5408c0c3c5b366c8baf83ef983eb:e8d309bba84b672a151b9f741a89cbd1": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "Charles Leclerc",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::Sportscast FHD::https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5f80538f-a945-4227-804f-a9c2743c0e3b/master.m3u8::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "Sportscast FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::SKY SPORTS [FHD]::https://pushembdz.store/embed/4923e4bc-df44-41f6-a910-8cee87bb59c6::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "SKY SPORTS [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::APPLE TV [FHD]::https://pushembdz.store/embed/67032501-3493-4c03-b7ec-064086fcac24::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "APPLE TV [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::RUSSIA FEED::https://bl.rutube.ru/livestream/4ee70215ae4c152fcd01310ed5456721/index.m3u8?s=HkcmRFg5XJOrbyLjqijjrw&e=1787575468&scheme=https|user-agent=Mozilla::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "RUSSIA FEED",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::SKY F1 DEU [FHD]::https://pushembdz.store/embed/b6aa9da7-11b3-4238-8af7-a67e7e00a1b5::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "SKY F1 DEU [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::DAZN ESPANOL [FHD]::https://pushembdz.store/embed/74e52563-46b6-4d3d-9ba1-a57a4b82a4c0::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "DAZN ESPANOL [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::SKY ITALY [FHD]::https://pushembdz.store/embed/95b8965c-e316-4ae6-92d5-a99b3b14bb1e::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "SKY ITALY [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::LOW QUALITY::https://pushembdz.store/embed/1f4133dc-f42e-423a-864b-da53d294c81a::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "LOW QUALITY",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::SKY SPORTS [FHD]::https://embedindia.st/embed/f1/2026/netherlands/race::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "SKY SPORTS [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::APPLE TV [FHD]::https://embedindia.st/embed/f1/2026/netherlands/race/f1tv::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "APPLE TV [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::VIAPLAY NL [FHD]::https://embedindia.st/embed/f1/2026/netherlands/race/viaplay-nl::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "VIAPLAY NL [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::DAZN ESP [FHD]::https://embedindia.st/embed/f1/2026/netherlands/race/dazn-es::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "DAZN ESP [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::SKY SPORTS HD::https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "SKY SPORTS HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50002::SD SERVER::http://193.47.62.53/hls/dpdpdp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/::": {
+          "eventId": 50002,
+          "eventTitle": "Formula 1",
+          "channelTitle": "SD SERVER",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::MotoGP FHD::https://a51live-emt-pv-ta-amazon.akamaized.net/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/p1p14jnre5/out/v1/8197c8e055c94a868623653ac55c10bf/348379f5-d2b8-43d7-87cf-13a978408def-cenc.mpd?aws.sessionId=ef9a77af-c2b9-4a87-8558-f47c6aec5a31::e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "MotoGP FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::TNT SPORTS - AQ::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd::f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "TNT SPORTS - AQ",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::MotoGP FHD [ALT]::https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/p1p14jnre5/out/v1/8197c8e055c94a868623653ac55c10bf/348379f5-d2b8-43d7-87cf-13a978408def-cenc.mpd::e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "MotoGP FHD [ALT]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::FANCODE FHD::https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd::065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "FANCODE FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::SPO TV - AQ::https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd::7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "SPO TV - AQ",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::ZIGGO SPORT - AQ::https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621::ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "ZIGGO SPORT - AQ",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::TNT SPORTS SD::https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click::": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "TNT SPORTS SD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::DAZN SPORTS::https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click::": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "DAZN SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::CANAL+ HD::https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click::": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "CANAL+ HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::TNT SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::ZjNkZjc4NDMwODBhZTc0M2JmODY1ZGM1ZmRmNjRjNjg6NTY3Yzg2M2JjMTJlYjc0Nzg4ZWE3dDg4O5MwNDJlMWI=": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "TNT SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::FANCODE - FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd::ODJkZmNhMjM4ZThjNGI0MzBhMzI2OWRiNzE5NjVkYjk6YTAwYjI4Y2FmNGFjNjI4ZTc3YTU1c2Q0N2BjMGRkY2E=": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "FANCODE - FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::MotoGP FHD::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::ZTAzZjMwMmVjNGRhYmNjY2NhODJjYzlmNzY3MzFlYzk6NTNlYTEwMjdkMmJmMjg5M2E1NTJjVTE1YbMwMzY2ZGU=": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "MotoGP FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::DUDE Tv Live::https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50003::TNT SPORTS HD::https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8::": {
+          "eventId": 50003,
+          "eventTitle": "MotoGP",
+          "channelTitle": "TNT SPORTS HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ FHD::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2lyeyh0csz/out/v1/b530ff33ac684451854cb35e5ef371dc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::c05a57e8d0ac6e4fcdc47adeb6a363b5:b134668a3bd7c0a339a27f525b041cb8": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::TNT SPORTS FHD::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "TNT SPORTS FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ ES::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rjetr6ebt1/out/v1/0bee1924c091400cb029535fbaefe592/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::e9ddc5a90dc6bd4aff58c02979e3884b:33d302dd9e2932139f90b0c6c7880c50": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ ES",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ PT::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fq7a4ujaxe/out/v1/8a76ffc37a5f4353afa904c3c45a27fb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::747491219a428cd88eeb639ed8ce1fbc:128c8cab682cdf63dcd5a8d420450cca": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ PT",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ HD::https://chatgpt.hereisman.net/playlist/55420/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::SportsNet FHD::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "SportsNet FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::DUDE Tv Live::https://ubuntu.fromthyheart.site/dailymotion/live/playlist/25.m3u8::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::DUDE Tv LIVE::https://edgestream3.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "DUDE Tv LIVE",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ [FHD]::https://embedindia.st/embed/ufc-fight-night-nurmagomedov-vs-song::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ ES [FHD]::https://embedindia.st/embed/ufc-fight-night-nurmagomedov-vs-song/paramount-es::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ ES [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ PT [FHD]::https://embedindia.st/embed/ufc-fight-night-nurmagomedov-vs-song/paramount-pt::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ PT [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::DAZN DE [FHD]::https://embedindia.st/embed/ufc-fight-night-nurmagomedov-vs-song/dazn-de::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "DAZN DE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::SD TV (USE VPN)::http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "SD TV (USE VPN)",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ HD::https://chatgpt.hereisman.net/playlist/53500/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ S2::https://chatgpt.hereisman.net/playlist/53504/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ S2",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::PARAMOUNT+ BR::https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "PARAMOUNT+ BR",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::SD TV (USE VPN)::http://193.47.62.41/hls/suuu.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "SD TV (USE VPN)",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50004::DUDE Tv LIVE::https://mainstreams.pro/hls/zeuryuegn48.m3u?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36::": {
+          "eventId": 50004,
+          "eventTitle": "UFC",
+          "channelTitle": "DUDE Tv LIVE",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50005::DUDE Tv NXT Live::https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8::": {
+          "eventId": 50005,
+          "eventTitle": "WWE NXT",
+          "channelTitle": "DUDE Tv NXT Live",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50005::NXT LIVE [FHD]::https://embedindia.st/embed/wwe/2026-08-04::": {
+          "eventId": 50005,
+          "eventTitle": "WWE NXT",
+          "channelTitle": "NXT LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50006::TSN SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0": {
+          "eventId": 50006,
+          "eventTitle": "WWE",
+          "channelTitle": "TSN SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50006::tbs SPORTS HD::https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50006,
+          "eventTitle": "WWE",
+          "channelTitle": "tbs SPORTS HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50006::Fox Sports Premium::https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd::9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426": {
+          "eventId": 50006,
+          "eventTitle": "WWE",
+          "channelTitle": "Fox Sports Premium",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50006::BACKUP HD::https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/::": {
+          "eventId": 50006,
+          "eventTitle": "WWE",
+          "channelTitle": "BACKUP HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50006::BACKUP SD::https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/::": {
+          "eventId": 50006,
+          "eventTitle": "WWE",
+          "channelTitle": "BACKUP SD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50009::One Fight FHD::https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36::308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d": {
+          "eventId": 50009,
+          "eventTitle": "ONE Friday Fights",
+          "channelTitle": "One Fight FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50009::Server 2::https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd::60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271": {
+          "eventId": 50009,
+          "eventTitle": "ONE Friday Fights",
+          "channelTitle": "Server 2",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50009::Server 3::https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd::a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0": {
+          "eventId": 50009,
+          "eventTitle": "ONE Friday Fights",
+          "channelTitle": "Server 3",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50009::Server 4::https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8::": {
+          "eventId": 50009,
+          "eventTitle": "ONE Friday Fights",
+          "channelTitle": "Server 4",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50010::DUDE Tv WWE::https://chatgpt.hereisman.net/playlist/54800/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50010,
+          "eventTitle": "WWE Raw",
+          "channelTitle": "DUDE Tv WWE",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50010::DUDE Tv RAW::https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8::": {
+          "eventId": 50010,
+          "eventTitle": "WWE Raw",
+          "channelTitle": "DUDE Tv RAW",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50010::WWE RAW [FHD]::https://embedindia.st/embed/wwe/2026-08-24::": {
+          "eventId": 50010,
+          "eventTitle": "WWE Raw",
+          "channelTitle": "WWE RAW [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50010::DUDE Tv Live::https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50010,
+          "eventTitle": "WWE Raw",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50010::HD SERVER::https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://26hrwgorfcmh.windows-devs.top/::": {
+          "eventId": 50010,
+          "eventTitle": "WWE Raw",
+          "channelTitle": "HD SERVER",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50010::DUDE Tv HD::https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/::": {
+          "eventId": 50010,
+          "eventTitle": "WWE Raw",
+          "channelTitle": "DUDE Tv HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50010::Backup SD::https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://27lftgqlgzmy.windows-devs.top/::": {
+          "eventId": 50010,
+          "eventTitle": "WWE Raw",
+          "channelTitle": "Backup SD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50011::DUDE Tv WWE::https://chatgpt.hereisman.net/playlist/54963/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50011,
+          "eventTitle": "WWE Smackdown Friday",
+          "channelTitle": "DUDE Tv WWE",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50011::WWE LIVE FHD::https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8::": {
+          "eventId": 50011,
+          "eventTitle": "WWE Smackdown Friday",
+          "channelTitle": "WWE LIVE FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50011::SPX LIVE [FHD]::https://embedindia.st/embed/wwe/2026-08-28::": {
+          "eventId": 50011,
+          "eventTitle": "WWE Smackdown Friday",
+          "channelTitle": "SPX LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50011::HD SERVER::https://edgestream6.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50011,
+          "eventTitle": "WWE Smackdown Friday",
+          "channelTitle": "HD SERVER",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50011::DUDE Tv TV+ HD::https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://26hrwgorfcmh.windows-devs.top/::": {
+          "eventId": 50011,
+          "eventTitle": "WWE Smackdown Friday",
+          "channelTitle": "DUDE Tv TV+ HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50011::HD QUALITY::https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8?|referer=https://26hrwgorfcmh.windows-devs.top/::": {
+          "eventId": 50011,
+          "eventTitle": "WWE Smackdown Friday",
+          "channelTitle": "HD QUALITY",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50011::LOW QUALITY::https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com::": {
+          "eventId": 50011,
+          "eventTitle": "WWE Smackdown Friday",
+          "channelTitle": "LOW QUALITY",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50011::USA TV::https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd::58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41": {
+          "eventId": 50011,
+          "eventTitle": "WWE Smackdown Friday",
+          "channelTitle": "USA TV",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::TSN4 SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "TSN4 SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::TENNIS2 FHD::https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "TENNIS2 FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::SKY TENNIS FHD::https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=8W3-qi6L4hzOhynVnQ1rXw&e=2075285627&scheme=https|User-Agent=Mozilla::": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "SKY TENNIS FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::SP0TV FHD::https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd::7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "SP0TV FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::TAPMAD FHD::https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8|referer=https://tapmad.com::": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "TAPMAD FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::TSN SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "TSN SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::TSN3 SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "TSN3 SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::TSN5 SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "TSN5 SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::EUROSPORT FHD::https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd::MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "EUROSPORT FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50019::EUROSPORT2 FHD::https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd::MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=": {
+          "eventId": 50019,
+          "eventTitle": "US OPEN",
+          "channelTitle": "EUROSPORT2 FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50032::DUDE Tv LIVE::https://edgestream7.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50032,
+          "eventTitle": "Miami Marlins",
+          "channelTitle": "DUDE Tv LIVE",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50032::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/chw-hou::": {
+          "eventId": 50032,
+          "eventTitle": "Miami Marlins",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50033::DUDE Tv Live::https://edgestream4.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50033,
+          "eventTitle": "Minnesota Twins",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50033::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/bal-col::": {
+          "eventId": 50033,
+          "eventTitle": "Minnesota Twins",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50059::WILLOW - FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4": {
+          "eventId": 50059,
+          "eventTitle": "Sri Lanka W vs Indonesia W",
+          "channelTitle": "WILLOW - FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50059::WILLOW - ALT::https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd::b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4": {
+          "eventId": 50059,
+          "eventTitle": "Sri Lanka W vs Indonesia W",
+          "channelTitle": "WILLOW - ALT",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50059::SonyLiv - English::https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8::": {
+          "eventId": 50059,
+          "eventTitle": "Sri Lanka W vs Indonesia W",
+          "channelTitle": "SonyLiv - English",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50060::WILLOW - FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::9d4ccbb6df9c984e1b8f29a7d8872643:db4f102d7b730b9dac2450c50eb4bd6b": {
+          "eventId": 50060,
+          "eventTitle": "England W vs Ireland W",
+          "channelTitle": "WILLOW - FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50060::SKY CRICKET::https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla::": {
+          "eventId": 50060,
+          "eventTitle": "England W vs Ireland W",
+          "channelTitle": "SKY CRICKET",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50060::WILLOW - ALT::https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd::9d4ccbb6df9c984e1b8f29a7d8872643:db4f102d7b730b9dac2450c50eb4bd6b": {
+          "eventId": 50060,
+          "eventTitle": "England W vs Ireland W",
+          "channelTitle": "WILLOW - ALT",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50060::TAPMAD - FHD::https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8::": {
+          "eventId": 50060,
+          "eventTitle": "England W vs Ireland W",
+          "channelTitle": "TAPMAD - FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50060::FOX CRICKET HD::https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8::": {
+          "eventId": 50060,
+          "eventTitle": "England W vs Ireland W",
+          "channelTitle": "FOX CRICKET HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50060::TEN SPORTS HD::https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8::": {
+          "eventId": 50060,
+          "eventTitle": "England W vs Ireland W",
+          "channelTitle": "TEN SPORTS HD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50060::SonyLiv::http://dai.google.com/ssai/event/jOHc0xjyQUWiTpMoswilcg/master.m3u8::": {
+          "eventId": 50060,
+          "eventTitle": "England W vs Ireland W",
+          "channelTitle": "SonyLiv",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50060::LOW SERVER::http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/::": {
+          "eventId": 50060,
+          "eventTitle": "England W vs Ireland W",
+          "channelTitle": "LOW SERVER",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50061::TNT SPORTS FHD::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b": {
+          "eventId": 50061,
+          "eventTitle": "ETPL",
+          "channelTitle": "TNT SPORTS FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50061::WILLOW - FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jagbnl8trg/out/v1/0cb10adee08f404c9239588df0c157f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b": {
+          "eventId": 50061,
+          "eventTitle": "ETPL",
+          "channelTitle": "WILLOW - FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50061::WILLOW - ALT::https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jagbnl8trg/out/v1/0cb10adee08f404c9239588df0c157f6/cenc.mpd::264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b": {
+          "eventId": 50061,
+          "eventTitle": "ETPL",
+          "channelTitle": "WILLOW - ALT",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50061::TAPMAD - FHD::https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8::": {
+          "eventId": 50061,
+          "eventTitle": "ETPL",
+          "channelTitle": "TAPMAD - FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50062::FANCODE - FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835": {
+          "eventId": 50062,
+          "eventTitle": "Namibia vs Zimbabwe",
+          "channelTitle": "FANCODE - FHD",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50075::DUDE Tv Live::https://edgestream6.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50075,
+          "eventTitle": "Cincinnati Reds vs Padres",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.347Z"
+        },
+        "50075::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/sd-cin::": {
+          "eventId": 50075,
+          "eventTitle": "Cincinnati Reds vs Padres",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50076::DUDE Tv Live::https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50076,
+          "eventTitle": "Nationals vs Atlanta Braves",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50076::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/tor-cle::": {
+          "eventId": 50076,
+          "eventTitle": "Nationals vs Atlanta Braves",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50077::DUDE Tv Live::https://edgestream7.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50077,
+          "eventTitle": "Texas Rangers vs Athletics",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50077::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/sf-pit::": {
+          "eventId": 50077,
+          "eventTitle": "Texas Rangers vs Athletics",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50078::DUDE Tv Live::https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50078,
+          "eventTitle": "Rockies vs Baltimore Orioles",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50078::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/nym-tb::": {
+          "eventId": 50078,
+          "eventTitle": "Rockies vs Baltimore Orioles",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50079::DUDE Tv Live::https://edgestream4.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50079,
+          "eventTitle": "Diamondbacks vs Phillies",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50079::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/sea-bos::": {
+          "eventId": 50079,
+          "eventTitle": "Diamondbacks vs Phillies",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50080::DUDE Tv Live::https://edgestream7.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50080,
+          "eventTitle": "Red Sox vs Seattle Mariners",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50080::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/atl-wsh::": {
+          "eventId": 50080,
+          "eventTitle": "Red Sox vs Seattle Mariners",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50081::DUDE Tv Live::https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50081,
+          "eventTitle": "Guardians vs Blue Jays",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50081::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/mil-chc::": {
+          "eventId": 50081,
+          "eventTitle": "Guardians vs Blue Jays",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50082::DUDE Tv Live::https://edgestream5.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50082,
+          "eventTitle": "Pittsburgh Pirates vs Giants",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50082::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/mia-kc::": {
+          "eventId": 50082,
+          "eventTitle": "Pittsburgh Pirates vs Giants",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50083::DUDE Tv Live::https://edgestream6.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50083,
+          "eventTitle": "Rays vs New York Mets",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50083::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/det-min::": {
+          "eventId": 50083,
+          "eventTitle": "Rays vs New York Mets",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50084::DUDE Tv Live::https://edgestream4.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online::": {
+          "eventId": 50084,
+          "eventTitle": "Chicago Cubs vs Brewers",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50084::MLB LIVE [FHD]::https://embedindia.st/embed/mlb/2026-09-01/ath-tex::": {
+          "eventId": 50084,
+          "eventTitle": "Chicago Cubs vs Brewers",
+          "channelTitle": "MLB LIVE [FHD]",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50085::TNT SPORTS FHD::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b": {
+          "eventId": 50085,
+          "eventTitle": "CPL",
+          "channelTitle": "TNT SPORTS FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50085::TAPMAD FHD::https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com::": {
+          "eventId": 50085,
+          "eventTitle": "CPL",
+          "channelTitle": "TAPMAD FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50085::WILLOW HD::http://tvsen5.aynascope.net/willowhd/index.m3u8::": {
+          "eventId": 50085,
+          "eventTitle": "CPL",
+          "channelTitle": "WILLOW HD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50093::PREMIER SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f": {
+          "eventId": 50093,
+          "eventTitle": "Real Sociedad vs Celta Vigo",
+          "channelTitle": "PREMIER SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50093::beIN ENGLISH::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8": {
+          "eventId": 50093,
+          "eventTitle": "Real Sociedad vs Celta Vigo",
+          "channelTitle": "beIN ENGLISH",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50093::FANCODE FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca": {
+          "eventId": 50093,
+          "eventTitle": "Real Sociedad vs Celta Vigo",
+          "channelTitle": "FANCODE FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50094::FUBO SPORTS FHD::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f": {
+          "eventId": 50094,
+          "eventTitle": "Ipswich Town vs Liverpool",
+          "channelTitle": "FUBO SPORTS FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50095::PREMIER SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f": {
+          "eventId": 50095,
+          "eventTitle": "Osnabrück vs Bayern München",
+          "channelTitle": "PREMIER SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50095::ITALIA 1 FHD::https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd::00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587": {
+          "eventId": 50095,
+          "eventTitle": "Osnabrück vs Bayern München",
+          "channelTitle": "ITALIA 1 FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50095::SPORT 1 CZ::https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd::11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d": {
+          "eventId": 50095,
+          "eventTitle": "Osnabrück vs Bayern München",
+          "channelTitle": "SPORT 1 CZ",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50095::DUDE Tv Live::https://chatgpt.hereisman.net/playlist/55637/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50095,
+          "eventTitle": "Osnabrück vs Bayern München",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50095::LOW SERVER::http://193.47.62.45/hls/BIIIQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/::": {
+          "eventId": 50095,
+          "eventTitle": "Osnabrück vs Bayern München",
+          "channelTitle": "LOW SERVER",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50096::beIN ENGLISH::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e": {
+          "eventId": 50096,
+          "eventTitle": "Burnley vs Middlesbrough",
+          "channelTitle": "beIN ENGLISH",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50096::CBS NETWORK::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861": {
+          "eventId": 50096,
+          "eventTitle": "Burnley vs Middlesbrough",
+          "channelTitle": "CBS NETWORK",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50097::ELEVEN SPORTS HD::https://netanjahu.hls.st/t/2d314ad2141fc50ce679b5bb60c7f369/index.m3u8|referer=https://iplayer.is/::": {
+          "eventId": 50097,
+          "eventTitle": "Millwall vs Wrexham",
+          "channelTitle": "ELEVEN SPORTS HD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50097::ARENA PREMIUM HD::https://netanjahu.hls.st/t/c7f5dedf42b28ac90367619ab88dcc25/index.m3u8|referer=https://iplayer.is/::": {
+          "eventId": 50097,
+          "eventTitle": "Millwall vs Wrexham",
+          "channelTitle": "ARENA PREMIUM HD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50097::ZIGGO SPORTS HD::https://netanjahu.hls.st/t/e04434cf7af78ed83bb92104f5c2b0a4/index.m3u8|referer=https://iplayer.is/::": {
+          "eventId": 50097,
+          "eventTitle": "Millwall vs Wrexham",
+          "channelTitle": "ZIGGO SPORTS HD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50097::beIN SPORTS HD::https://netanjahu.hls.st/t/e049c5765642f1366dc17e76fc3e56af/index.m3u8|referer=https://iplayer.is/::": {
+          "eventId": 50097,
+          "eventTitle": "Millwall vs Wrexham",
+          "channelTitle": "beIN SPORTS HD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50097::TVP SPORT HD::https://netanjahu.hls.st/t/a738b2b2a28ec66f19deb4d5252414ea/index.m3u8|referer=https://iplayer.is/::": {
+          "eventId": 50097,
+          "eventTitle": "Millwall vs Wrexham",
+          "channelTitle": "TVP SPORT HD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50097::DUDE Tv Live::https://edgestream2.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center::": {
+          "eventId": 50097,
+          "eventTitle": "Millwall vs Wrexham",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50097::LOW SERVER::http://193.47.62.41/hls/kiiiqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/::": {
+          "eventId": 50097,
+          "eventTitle": "Millwall vs Wrexham",
+          "channelTitle": "LOW SERVER",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50098::DUDE Tv Live::https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14::": {
+          "eventId": 50098,
+          "eventTitle": "QPR vs Cardiff City",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50099::DUDE Tv Live::https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14::": {
+          "eventId": 50099,
+          "eventTitle": "West Brom vs Charlton",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50100::beIN ENGLISH::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8": {
+          "eventId": 50100,
+          "eventTitle": "Falkirk FC vs Rangers",
+          "channelTitle": "beIN ENGLISH",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50100::SportDigital Fussball::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8": {
+          "eventId": 50100,
+          "eventTitle": "Falkirk FC vs Rangers",
+          "channelTitle": "SportDigital Fussball",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50101::DUDE Tv Live::https://chatgpt.hereisman.net/playlist/55633/load-playlist?|Referer=https://gooz.aapmains.net::": {
+          "eventId": 50101,
+          "eventTitle": "Celtic vs Aberdeen",
+          "channelTitle": "DUDE Tv Live",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50101::LOW SERVER::http://193.47.62.55/hls/SIIIQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/::": {
+          "eventId": 50101,
+          "eventTitle": "Celtic vs Aberdeen",
+          "channelTitle": "LOW SERVER",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50102::PREMIER SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f": {
+          "eventId": 50102,
+          "eventTitle": "Udinese vs Venezia",
+          "channelTitle": "PREMIER SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50102::FUBO SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f": {
+          "eventId": 50102,
+          "eventTitle": "Udinese vs Venezia",
+          "channelTitle": "FUBO SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50102::CBS NETWORK::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861": {
+          "eventId": 50102,
+          "eventTitle": "Udinese vs Venezia",
+          "channelTitle": "CBS NETWORK",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50102::D Sports FHD::https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504": {
+          "eventId": 50102,
+          "eventTitle": "Udinese vs Venezia",
+          "channelTitle": "D Sports FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50102::ITALIA 1 FHD::https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd::00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587": {
+          "eventId": 50102,
+          "eventTitle": "Udinese vs Venezia",
+          "channelTitle": "ITALIA 1 FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50103::PREMIER SPORTS::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f": {
+          "eventId": 50103,
+          "eventTitle": "Sassuolo vs Frosinone",
+          "channelTitle": "PREMIER SPORTS",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50103::D Sports FHD::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36::f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3": {
+          "eventId": 50103,
+          "eventTitle": "Sassuolo vs Frosinone",
+          "channelTitle": "D Sports FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        },
+        "50103::ITALIA 1 FHD::https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd::00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587": {
+          "eventId": 50103,
+          "eventTitle": "Sassuolo vs Frosinone",
+          "channelTitle": "ITALIA 1 FHD",
+          "lastSeen": "2026-09-02T07:16:28.348Z"
+        }
+      }
+    }
+  }
+}
