@@ -42,7 +42,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add posted_channels_state.json
+          git add posted_channels_state.json embeded.json skysun.json
           git fetch origin main
           git reset --soft origin/main
           if git diff --cached --quiet; then
