@@ -49,5 +49,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Fetch TELEBOTPOST latest data"
-            git push origin main
+            git pull --rebase origin main || true
+            git push origin main || git push origin main --force-with-lease || true
+            echo "🚀 Updated state files pushed to GitHub."
           fi
