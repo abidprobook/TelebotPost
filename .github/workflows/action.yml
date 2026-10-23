@@ -30,6 +30,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_TOPIC_ID: ${{ secrets.TELEGRAM_TOPIC_ID }}
+          CF_KV_URL: ${{ secrets.CF_KV_URL }}
+          CF_KV_SECRET: ${{ secrets.CF_KV_SECRET }}
         run: |
           curl -L -o telebotpost.js ${{ secrets.TELEBOTPOST_SCRIPT }}
           node telebotpost.js
